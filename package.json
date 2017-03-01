@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "track package",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "font-awesome": "^4.7.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.7.6",
+    "multer": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linker2016/track.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "track"
+  ],
+  "author": "Linker",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/linker2016/track/issues"
+  },
+  "homepage": "https://github.com/linker2016/track#readme"
+}
